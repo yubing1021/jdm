@@ -12,6 +12,11 @@
         <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/service-busamqp/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-t2/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zipkin/pom.xml" />
       </list>
     </option>
   </component>

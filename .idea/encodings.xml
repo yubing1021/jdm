@@ -2,12 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client-t2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-miya" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-busamqp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-sms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-sms-t2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-zuul" charset="UTF-8" />
   </component>
 </project>

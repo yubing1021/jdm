@@ -7,25 +7,36 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
+        <module name="config-client-t2" />
         <module name="config-server" />
+        <module name="consul-miya" />
         <module name="eurekaserver" />
         <module name="jdm" />
+        <module name="service-busamqp" />
         <module name="service-feign" />
         <module name="service-ribbon" />
         <module name="service-sms" />
         <module name="service-sms-t2" />
+        <module name="service-turbine" />
+        <module name="service-zipkin" />
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
+      <module name="config-client-t2" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="consul-miya" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="jdm" target="1.5" />
+      <module name="service-busamqp" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-sms" target="1.8" />
       <module name="service-sms-t2" target="1.8" />
+      <module name="service-turbine" target="1.8" />
+      <module name="service-web" target="1.8" />
+      <module name="service-zipkin" target="1.8" />
       <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
